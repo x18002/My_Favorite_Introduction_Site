@@ -1,0 +1,152 @@
+body{
+    background-color: #ECECEC; /*背景色*/
+    width: 100%;
+}
+h1{
+    color:RGBa(0%, 0%, 0%, 0.7);
+    width:60%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 5%;
+    text-align: center;
+    font-size: 400%;
+}
+
+.f1{
+    background-color: white;
+    width:80%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom:5%;
+}
+.f1 > h2{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 200%;
+    border-bottom: 3px solid RGB(160, 216, 239);
+    padding-top:2%;
+    padding-left:10%;
+    padding-right: 5%;
+}
+.f1 > .text1{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 150%;
+    padding-right:10%;
+    padding-left: 10%;
+    padding-bottom: 1%;
+}
+.f1 > img{
+    padding-top:5%;
+    padding-left:10%;
+}
+
+.f2{
+    background-color: white;
+    width:80%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom:5%;
+}
+.f2 > h2{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 200%;
+    border-bottom: 3px solid RGB(160, 216, 239);
+    padding-top:2%;
+    padding-left:10%;
+    padding-right: 5%;
+}
+.f2 > .text2{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 150%;
+    padding-right:10%;
+    padding-left: 10%;
+    padding-bottom: 1%;
+}
+.f2 > img{
+    padding-top:5%;
+    padding-left:10%;
+    padding-bottom: 0%;
+}
+.f2 > .text2-2{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 150%;
+    padding-right:10%;
+    padding-left: 10%;
+    padding-bottom: 1%;
+}
+.f3{
+    background-color: white;
+    width:80%;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom:5%;
+    
+}
+.f3 > h2{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 200%;
+    border-bottom: 3px solid RGB(160, 216, 239);
+    padding-top:2%;
+    padding-left:10%;
+    padding-right: 5%;
+}
+
+.f3 > h3{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 190%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+.f3 > .name{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 150%;
+    padding-left: 10%;
+    padding-bottom: 0.5%;
+    padding-top: 7%;
+    border-bottom: 6px double #000;
+}
+.f3 > .member_photo{
+    padding-left: 10%;
+}
+
+.f3 > .text3-1, .text3-2, .text3-3, .text3-4, .text3-5, .text3-6, .text3-7, .text3-8
+,.text3-9, .text3-10, .text3-11, .text3-12, .text3-13, .text3-14, .text3-15, .text3-16, .text3-17, .text3-18,.text3-19{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 150%;
+    padding-right:10%;
+    padding-left: 10%;
+    padding-bottom: 1%;
+}
+.f4{
+    background-color: white;
+    width:80%;
+    height: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom:1%;
+    
+}
+.f4 > h2{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 200%;
+    border-bottom: 3px solid RGB(160, 216, 239);
+    padding-top:2%;
+    padding-left:10%;
+    padding-right: 5%;
+}
+.f4 > .text4-1, .text4-2, .text4-3, .text4-4, .text4-5{
+    color:RGBa(0%, 0%, 0%, 0.8);
+    font-size: 150%;
+    padding-right:10%;
+    padding-left: 10%;
+}
+.f4 > iframe{
+    border: none;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+    width: 80%;
+    height: 400px;
+    position: relative;
+}
